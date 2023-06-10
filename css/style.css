@@ -65,6 +65,27 @@ body{
 	height: 320px;
 }
 
+.dropdown h3{
+	color: #019858;
+}
+
+.dropdown1{
+	color: #019858;
+}
+
+.title{
+	color:black;
+	background-color: white;
+}
+
+.title2{
+	color:black;
+}
+
+.row{
+	width: auto;
+}
+
 @media screen and (max-width : 1920px){
   .only-mobile{
   visibility:hidden;
